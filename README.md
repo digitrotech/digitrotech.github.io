@@ -1,1 +1,1 @@
-# digitrotech.github.io
+# digitrotech
